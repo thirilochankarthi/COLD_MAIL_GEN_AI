@@ -40,6 +40,6 @@ ChromaDB (often just called "Chroma") is an open-source vector database designed
          3. Create a file for chroma data base
 
 TO better understand about vector refer this picture with the chroma db documentation
-![alt text](images/<Screenshot 2024-11-15 205708.png>)
+![alt text](images/img2.png)
 
 13:30
