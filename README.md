@@ -42,4 +42,12 @@ ChromaDB (often just called "Chroma") is an open-source vector database designed
 TO better understand about vector refer this picture with the chroma db documentation
 ![alt text](images/img2.png)
 
-13:30
+STEP 4 : WEB SCRAPING ( Extracting Data from the Website ) 
+         
+         1. Here we used is LangChain - 'https://python.langchain.com/docs/integrations/document_loaders/web_base/'
+         2.Installing in your environment : 'pip install -qU langchain_community beautifulsoup4'
+         
+STEP 5 : INCLUDED MY CSV FILE - WHICH CONTAINS portfolio
+
+
+         
